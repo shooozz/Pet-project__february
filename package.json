@@ -1,0 +1,23 @@
+{
+  "name": "pet-project__february",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shooozz/Pet-project__february.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shooozz/Pet-project__february/issues"
+  },
+  "homepage": "https://github.com/shooozz/Pet-project__february#readme",
+  "dependencies": {
+    "resend": "^6.30.0"
+  }
+}
